@@ -1,6 +1,6 @@
-## Hi I AM AIMAN REHMAN  👋
+<h1 align="center"> Hi I AM AIMAN REHMAN  👋
 
-<h1 align="center">A PASSIONATE SOFTWARE DEVELOPER FROM PAKISTAN
+<h2 align="center">A PASSIONATE SOFTWARE DEVELOPER FROM PAKISTAN
 
 Here are some ideas to get you started:
 
