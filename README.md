@@ -3,7 +3,7 @@
 <h2 align="center">𝔸 𝕡𝕒𝕤𝕤𝕚𝕠𝕟𝕒𝕥𝕖 𝕡𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕖𝕣 𝕗𝕣𝕠𝕞 ℙ𝕒𝕜𝕚𝕤𝕥𝕒𝕟
 
 - 🔭 I am student of computer science
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ , C# , python and web development 
 - 📫 How to reach me aimanrehman2244@gmail.com
 - ⚡ Fun fact: only study.
 - 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 𝓐𝓷𝓭 𝓣𝓸𝓸𝓵𝓼:
